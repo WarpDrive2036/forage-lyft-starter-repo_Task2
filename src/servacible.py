@@ -1,4 +1,4 @@
-from abc import ABC, abstractmethod
+from abc import ABC,abstractmethod
 
 # Interface for serviceable parts
 class Serviceable(ABC):
